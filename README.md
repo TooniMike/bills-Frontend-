@@ -1,16 +1,27 @@
-# bills
+# Bill
+Bill is a full-featured bill payment and reminder application, featuring a Flutter and Dart frontend and a Django Rest Framework backend.
 
-A new Flutter project.
+## Features
+- Bill Payment: Easily manage and pay bills through an intuitive interface.
+- Reminders: Set reminders for upcoming bill payments to avoid late fees.
+- Cross-platform: Designed for use on mobile devices, leveraging Flutter's cross-platform capabilities.
 
-## Getting Started
+# The Backend - [Backend Repo](https://github.com/TooniMike/BlogPost-Backend)
 
-This project is a starting point for a Flutter application.
+# Getting Started
+To get a local copy up and running, follow these steps.
+# Prerequisites
+Ensure you have the following tools installed:
+- Flutter [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
+- Django Rest Framework [DRF installation guide](https://docs.djangoproject.com/en/5.1/howto/windows/)
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+We welcome contributions! If you'd like to contribute to this project, please follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
